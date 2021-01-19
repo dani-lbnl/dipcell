@@ -1,7 +1,7 @@
 DIPcell
 =======
 
-Digital image processing for brain cells - investigations with UCSF.
+Digital image processing for brain cells - investigations with UCSF. Click here for [WEBSITE](https://s-miramontes.github.io/dipcell)
 
 What's going on
 ---------------
